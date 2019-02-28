@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1057494226691",
+    "firebase_url": "https://thietbi-63b91.firebaseio.com",
+    "project_id": "thietbi-63b91",
+    "storage_bucket": "thietbi-63b91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057494226691:android:d18daa4cc8196e80",
+        "android_client_info": {
+          "package_name": "com.phong.cuahangonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057494226691-usb6enu14rna86qnnolc9ri5t1svgatg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9rQq-XJ_2sdxdwmcxbO5SBMpFcMQL8XY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

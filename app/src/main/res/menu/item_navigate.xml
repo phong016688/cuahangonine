@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_sanpham"
+            android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/item_dienthoai"
+            android:checked="false"
+            android:icon="@drawable/ic_phone_android_black_24dp"
+            android:title="Điện thoại"></item>
+        <item
+            android:id="@+id/item_laptop"
+            android:checked="false"
+            android:icon="@drawable/ic_computer_black_24dp"
+            android:title="Laptop"></item>
+    </group>
+    <group android:id="@+id/group_dangnhap"
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/item_dangnhap"
+            android:checked="false"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Đăng nhập"></item>
+        <item
+            android:id="@+id/item_caidat"
+            android:checked="false"
+            android:icon="@drawable/ic_build_black_24dp"
+            android:title="Cài đặt"></item>
+    </group>
+</menu>
